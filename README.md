@@ -10,16 +10,11 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-> *"Turning raw data into meaningful intelligence."*
-
-- 🎓 **Information System** student with a focus on **Data Intelligence**
-- 📊 Passionate about **Data Analytics**, **Machine Learning**, and **Business Intelligence**
-- 🔍 I love uncovering patterns hidden in data
-- 🌱 Currently exploring **Deep Learning** & **Data Visualization**
-- 💡 Always curious, always learning
-
+- **Information System** student with a focus on **Data Intelligence**
+- I turn data into decisions
+- Always curious, always learning
 ---
 
 ## 🌐 Socials
