@@ -1,7 +1,6 @@
 <!--
   README Profile - Wendy | Data Intelligence
 -->
-
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hello%20World!%20I'm%20Wendy%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Information%20System%20%7C%20Data%20Intelligence&descAlignY=58&descSize=18&descColor=a78bfa)
@@ -15,6 +14,7 @@
 - **Information System** student with a focus on **Data Intelligence**
 - I turn data into decisions
 - Always curious, always learning
+
 ---
 
 ## 🌐 Socials
@@ -61,16 +61,11 @@
 
 ---
 
-
 ## 🎮 Play Games With Me!
 
-> My GitHub contribution graph — but make it Snake 🐍
+> My GitHub contribution graph — but make it Pac-Man 🟡
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zxyontech/zxyontech/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zxyontech/zxyontech/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/zxyontech/zxyontech/output/github-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/zxyontech/zxyontech/output/pacman.svg" alt="pacman"/>
 
 ---
 
