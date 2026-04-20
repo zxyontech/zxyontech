@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Pacman
 
 on:
   schedule:
@@ -9,13 +9,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - uses: actions/checkout@v3
+      - uses: buluma/github-action-feed-me@v1.0.2
         with:
           github_user_name: zxyontech
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-snake.svg?color_snake=#a78bfa&color_dots=#0d1117,#1e1b4b,#3730a3,#6d28d9,#a78bfa
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#a78bfa
+          output_file: dist/pacman.svg
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
