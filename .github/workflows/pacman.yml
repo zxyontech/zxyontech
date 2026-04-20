@@ -10,7 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: buluma/github-action-feed-me@v1.0.2
+      - uses: cicirello/generate-sitemap@v1
+        continue-on-error: true
+      - name: Generate Pacman
+        uses: ghosted-me/pacman-contribution-graph@v1
         with:
           github_user_name: zxyontech
           github_token: ${{ secrets.GITHUB_TOKEN }}
