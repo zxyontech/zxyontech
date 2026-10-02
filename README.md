@@ -1,20 +1,17 @@
-<!--
-  README Profile - Wendy | Data Intelligence
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:6d28d9,100:a78bfa&height=260&section=header&text=Wendy&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Intelligence%20%E2%80%A2%20AI%20Engineer%20in%20Progress&descAlignY=62&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6d28d9,100:a78bfa&height=240&section=header&text=Wendy&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Intelligence%20%E2%80%A2%20AI%20Engineer%20in%20Progress&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions+%F0%9F%93%8A;Building+AI+agents+with+LangGraph+%F0%9F%A4%96;Training+neural+networks+%F0%9F%A7%A0;Always+curious%2C+always+learning+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions+%F0%9F%93%8A;Building+AI+agents+with+LangGraph+%F0%9F%A4%96;Training+neural+networks+%F0%9F%A7%A0;Always+curious%2C+always+learning+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/wendy)
-[![Instagram](https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=a78bfa)](https://instagram.com/wendy)
-[![Email](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:wendy@email.com)
+<a href="https://linkedin.com/in/wendy"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>&nbsp;
+<a href="https://instagram.com/wendy"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>&nbsp;
+<a href="mailto:wendy@email.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=zxyontech&color=6d28d9&style=for-the-badge&label=VIEWS)
 
 </div>
@@ -134,6 +131,6 @@ class Wendy:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:a78bfa,50:6d28d9,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:6d28d9,100:0f0c29&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
