@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Wendy"/>
+<img src="./header.svg" width="100%" alt="Wendy"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions+%F0%9F%93%8A;Building+AI+agents+with+LangGraph+%F0%9F%A4%96;Training+neural+networks+%F0%9F%A7%A0;Always+curious%2C+always+learning+%E2%9C%A8" alt="Typing SVG" />
